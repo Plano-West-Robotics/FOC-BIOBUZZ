@@ -22,6 +22,7 @@ dependencies {
     //for pedropathing:
     implementation 'com.pedropathing:revhub:3.0.1'
     implementation 'com.pedropathing:tuning:1.0.0'
+    implementation 'com.pedropathing.ivy:pedro:1.1.1'
     //for panels:
     implementation "com.bylazar:fullpanels:1.0.13"
 }
